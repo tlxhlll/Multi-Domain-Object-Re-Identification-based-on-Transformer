@@ -1,2 +1,11 @@
 # Multi-Domain-Object-Re-Identification-based-on-Transformer
-My undergraduate thesis in Zhejiang University
+
+## Introduction
+
+This repo is my undergraduate thesis in Zhejiang University.
+
+## Training
+
+I trained models on 4 A-100
+
+## Result
